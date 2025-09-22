@@ -1,6 +1,6 @@
 # 🚆 OpenSide
 
-![OpenSide Banner](assets/header.png)
+![OpenSide Banner](assets/Sans titre 84_20250922023405.png)
 
 > **Découvre de quel côté les portes du RER / métro s’ouvrent avant même de descendre !**  
 > Simple, rapide et ultra pratique pour tous les voyageurs.  
